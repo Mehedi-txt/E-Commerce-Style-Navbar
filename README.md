@@ -14,3 +14,4 @@ It is created purely for *educational and practice purposes* to demonstrate fron
 ---
 
 ### Live URL
+https://mehedi-txt.github.io/E-Commerce-Style-Navbar/
